@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on https://corey-nadeau-portfolio.netlify.app
 - 🌱 I’m currently learning more and more JavaScript to use with React {update: I like Vite! is so fast!}
 - 💬 Ask me about anything!
-- 📫 How to reach me: djcjn16@hotmail.com
+- 📫 How to reach me: coreynadeau1@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the outdoors!
 
